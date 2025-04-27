@@ -1,0 +1,12 @@
+C:\Users\drhoa\Downloads\CW\Coursework\bin\Debug\net472\Coursework.exe.config
+C:\Users\drhoa\Downloads\CW\Coursework\bin\Debug\net472\Coursework.exe
+C:\Users\drhoa\Downloads\CW\Coursework\bin\Debug\net472\Coursework.pdb
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.csproj.AssemblyReference.cache
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.AssemblyInfoInputs.cache
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.AssemblyInfo.cs
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.exe
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.pdb
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.Form2.resources
+C:\Users\drhoa\Downloads\CW\Coursework\obj\Debug\net472\Coursework.csproj.GenerateResource.cache
